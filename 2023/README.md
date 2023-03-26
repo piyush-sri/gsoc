@@ -17,6 +17,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Krishna Dhakad
 - Manish Dhakal
 - Priscilla Baah
+- Piyush Srivastava
 - Rohit Yadav
 - Sachin Kumar
 - Sage Abdullah
